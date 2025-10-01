@@ -3,10 +3,12 @@
 用于快速比对两个文本文件的内容差异，支持展示独有数据、统计信息及结果导出。
 
 ## 开发流程
-![数据差异比对工具v1.0](https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/%E6%95%B0%E6%8D%AE%E5%B7%AE%E5%BC%82%E6%AF%94%E5%AF%B9%20v1.0.png)
+ <center><img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/%E6%95%B0%E6%8D%AE%E5%B7%AE%E5%BC%82%E6%AF%94%E5%AF%B9%20v1.0.png" alt="开发流程" width="60%"/></center>
 
 ## 功能特点
 - **可视化操作**：简洁的 GUI 界面，无需命令行操作。
+
+  <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/1.png" alt="主界面" width="60%"/>
 - **核心功能**：
   - 选择两个文本文件（.txt），每一行代表一个数据对象。
   - 自动识别文件内容差异，分类展示「仅在文件1中」「仅在文件2中」的数据
@@ -41,6 +43,9 @@
       - 「统计信息」：详细的数据量统计
    4. （可选）点击「保存结果」，选择目录导出差异数据；点击「清空结果」可重新比对
 
+   <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/2.png" alt="1" width="30%"/>
+   <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/3.png" alt="2" width="30%"/>
+   <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/4.png" alt="3" width="35%"/>
 
 ## 开发技术栈
 - 界面框架：Tkinter
