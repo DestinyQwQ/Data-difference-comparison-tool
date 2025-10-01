@@ -11,6 +11,10 @@
   <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/1.png" alt="主界面" width="60%"/>
 - **核心功能**：
   - 选择两个文本文件（.txt），每一行代表一个数据对象。
+ 
+    <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/a.png" alt="1.txt" width="40%"/>
+    <img src="https://github.com/DestinyQwQ/Data-difference-comparison-tool/blob/main/images/b.png" alt="2.txt" width="40%"/>
+   
   - 自动识别文件内容差异，分类展示「仅在文件1中」「仅在文件2中」的数据
   - 生成详细统计：文件总数据量、独有数据量、共有数据量、差异总量
   - 支持将比对结果导出为文本文件
