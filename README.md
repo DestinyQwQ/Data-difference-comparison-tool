@@ -35,7 +35,7 @@
 2. **运行程序**
    直接执行 Python 脚本：
    ```bash
-   python data_comparator.py
+   python Data_comparator.py
    ```
 
 3. **使用步骤**
